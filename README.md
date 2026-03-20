@@ -1,2 +1,3 @@
-# advanced-mobile-app-fucj
-A mobile application for modern development workflows
+# Advanced Mobile App Fucj
+
+A mobile application for modern development workflows.
